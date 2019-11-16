@@ -1,5 +1,6 @@
 {
-  "main": "dist/vue-composition-api.js",
-  "module": "dist/vue-composition-api.module.js",
+  "version": "0.0.0",
+  "main": "vue-composition-api.js",
+  "module": "vue-composition-api.module.js",
   "name": "@vue/composition-api"
 }
