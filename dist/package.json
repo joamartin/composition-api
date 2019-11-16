@@ -1,0 +1,5 @@
+{
+  "main": "dist/vue-composition-api.js",
+  "module": "dist/vue-composition-api.module.js",
+  "name": "@vue/composition-api"
+}
